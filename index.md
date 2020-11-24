@@ -1,6 +1,7 @@
 zoldort's perfunctory blog, folowing fastai's guide
 
 check out fastai's logo:
+
 ![Image of fast.ai logo](images/logo.png)
 
 ## This is a title 
